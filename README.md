@@ -5,7 +5,7 @@ math-utilities
 - Requirements: Java 1.5+
 
 This project currently contains a single utility for
-simulating Poisson processes.
+simulating Poisson processes in Java.
 
 How do I build it?
 ------------------
