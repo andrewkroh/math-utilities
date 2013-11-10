@@ -102,7 +102,7 @@ public class PoissonProcess
     /**
      * Returns a single Poisson inter-event arrival <strong>interval</strong>.
      * The value is the exponentially distributed <strong>time interval</strong>
-     * between to consecutive events. The value is just an interval and not
+     * between two consecutive events. The value is just an interval and not
      * based on unix epech time.
      * 
      * @return a single exponentially distributed interval value
