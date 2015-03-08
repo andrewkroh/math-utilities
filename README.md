@@ -1,4 +1,4 @@
-math-utilities ![Build Status](https://blog.crowbird.com/build-status/math-utilities)
+math-utilities ![Build Status](https://va.crowbird.com/build-status/math-utilities)
 ==============
 - Author: Andrew Kroh
 - License: Apache License, Version 2.0
