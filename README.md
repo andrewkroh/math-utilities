@@ -10,7 +10,7 @@ simulating Poisson processes in Java.
 How do I build it?
 ------------------
 
-    ./gradlew clean jar test javadoc
+    ./gradlew clean test jar javadoc
 
 That will build the project using Gradle. It uses the Gradle wrapper
 to automatically download the correct version of Gradle and execute the build.
